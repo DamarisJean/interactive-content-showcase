@@ -1,4 +1,5 @@
 # Interactive Content Showcase
+<img width="1432" alt="Screenshot 2023-05-19 at 15 02 21" src="https://github.com/DamarisJean/interactive-content-showcase/assets/128718325/e21d136a-e3f7-4a60-add3-dd57e7b0dbf1">
 
 This project is a web application that displays various types of content, such as programmer memes, jokes, quotes, and riddles. Users can interact with the application to view content based on their preferences.
 
